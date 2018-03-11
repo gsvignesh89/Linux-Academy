@@ -1,2 +1,8 @@
 #!/usr/bin/env python3.6
+
+#This is a printing function which prints hello world
+'''
+In python 3 the print is moved to function so we should call the function as
+listed below
+'''
 print("Hello, World!")
